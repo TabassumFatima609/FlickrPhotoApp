@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="favorites">Favorites</string>
+    <string name="edit">Edit</string>
+</resources>
